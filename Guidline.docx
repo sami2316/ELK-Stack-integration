@@ -1,0 +1,11 @@
+﻿----------------------------------------------------
+ELK stack integration with bro-osquery -- Guide Line
+----------------------------------------------------
+
+1. Install Elasticsearch, logstash and Kibana on a system running as bro-server, using the guide-line given in the following link.
+
+   https://www.digitalocean.com/community/tutorials/how-to-install-elasticsearch-logstash-and-kibana-elk-stack-on-ubuntu-14-04
+
+2. 
+
+
